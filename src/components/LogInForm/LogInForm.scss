@@ -1,0 +1,33 @@
+.form-wrapper {
+    width: 100%;
+    max-width: 360px;
+    margin: 0 auto;
+}
+.form-container {
+    border: solid 1px #d1d1d1;
+    border-radius: 2px;
+    padding: 30px;
+    margin: 30px 10px 10px 10px;
+    label {
+        span {
+            float: right;
+            font-size: 14px;
+        }
+    }
+
+}
+.sign-up {
+    padding-left: 20px;
+}
+.google {
+    button {
+        color: #000;
+        border: solid 1px #b8b8b8;
+        background-color: #ededed;
+        img {
+            width: 16px;
+            height: 16px;
+            float: left;
+        }
+    }
+}

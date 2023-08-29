@@ -1,0 +1,43 @@
+h1, h2 {
+    text-transform: capitalize;
+    text-align: center;
+}
+p {
+    margin-top: 0;
+    font-size: 14px;
+    height: 21px;    
+}
+a {
+    color: #2d8fff;
+    text-decoration: underline;
+    text-transform: capitalize;
+    cursor: pointer;
+}
+button {
+    width: 100%;
+    padding: 15px 20px;
+    border-radius: 5px;
+    text-transform: capitalize;
+    cursor: pointer;
+    border: none;
+    color: #fff;
+    background-color: #2d8fff;
+}
+hr {
+    margin: 20px 0;
+}
+.error {
+    margin-top: 0;
+    color: red;
+    font-size: 14px;
+}
+label, input {
+    display: block;
+}
+input {
+    width: -webkit-fill-available;
+    margin: 0;
+    padding: 15px 20px;
+    border-radius: 5px;
+    border: solid 1px #b8b8b8;
+}
